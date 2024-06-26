@@ -5,7 +5,8 @@ This repository aims to include a comprehensive collection of supervised learnin
 
 ## Algorithms Included
 1. **Regression**
-   - Linear Regression
+   - Simple Linear Regression
+   - Multiple Linear Regression
    - Ridge Regression
    - Lasso Regression
    - Polynomial Regression
