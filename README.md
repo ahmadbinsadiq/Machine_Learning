@@ -1,7 +1,7 @@
 # Machine Learning Algorithms Repository
 
 ## Overview
-This repository aims to include a comprehensive collection of machine learning algorithms and their subcategories. The goal is to provide a wide range of implementations to demonstrate various techniques in supervised, unsupervised, and reinforcement learning. Each algorithm is implemented in Python and comes with detailed documentation and example usage.
+This repository aims to include a comprehensive collection of machine learning algorithms and their subcategories. The goal is to provide a wide range of implementations to demonstrate various supervised, unsupervised, and reinforcement learning techniques. Each algorithm is implemented in Python and includes detailed documentation and example usage.
 
 ## Algorithms Included
 1. **Supervised Learning**
@@ -35,26 +35,26 @@ The algorithms are demonstrated using various datasets sourced from reliable sou
 ## Repository Structure
 - **data/**: Contains the datasets used in the examples.
 - **supervised/**: Implementation scripts for supervised learning algorithms.
-  - *linear_regression.py*: Implementation of linear regression with example usage.
-  - *logistic_regression.py*: Implementation of logistic regression with example usage.
-  - *decision_trees.py*: Implementation of decision trees with example usage.
-  - *random_forest.py*: Implementation of random forest with example usage.
-  - *svm.py*: Implementation of support vector machines with example usage.
-  - *knn.py*: Implementation of k-nearest neighbors with example usage.
+  - *linear_regression.ipynb*: Implementation of linear regression with example usage.
+  - *logistic_regression.ipynb*: Implementation of logistic regression with example usage.
+  - *decision_trees.ipynb*: Implementation of decision trees with example usage.
+  - *random_forest.ipynb*: Implementation of random forest with example usage.
+  - *svm.ipynb*: Implementation of support vector machines with example usage.
+  - *knn.ipynb*: Implementation of k-nearest neighbors with example usage.
 - **unsupervised/**: Implementation scripts for unsupervised learning algorithms.
-  - *kmeans.py*: Implementation of k-means clustering with example usage.
-  - *hierarchical_clustering.py*: Implementation of hierarchical clustering with example usage.
-  - *pca.py*: Implementation of principal component analysis with example usage.
-  - *ica.py*: Implementation of independent component analysis with example usage.
-  - *dbscan.py*: Implementation of DBSCAN with example usage.
+  - *kmeans.ipynb*: Implementation of k-means clustering with example usage.
+  - *hierarchical_clustering.ipynb*: Implementation of hierarchical clustering with example usage.
+  - *pca.ipynb*: Implementation of principal component analysis with example usage.
+  - *ica.ipynb*: Implementation of independent component analysis with example usage.
+  - *dbscan.ipynb*: Implementation of DBSCAN with example usage.
 - **reinforcement/**: Implementation scripts for reinforcement learning algorithms.
-  - *q_learning.py*: Implementation of Q-learning with example usage.
-  - *dqn.py*: Implementation of deep Q-networks with example usage.
-  - *policy_gradient.py*: Implementation of policy gradient methods with example usage.
+  - *q_learning.ipynb*: Implementation of Q-learning with example usage.
+  - *dqn.ipynb*: Implementation of deep Q-networks with example usage.
+  - *policy_gradient.ipynb*: Implementation of policy gradient methods with example usage.
 - **semi_supervised/**: Implementation scripts for semi-supervised learning algorithms.
-  - *self_training.py*: Implementation of self-training with example usage.
-  - *co_training.py*: Implementation of co-training with example usage.
-  - *tri_training.py*: Implementation of tri-training with example usage.
+  - *self_training.ipynb*: Implementation of self-training with example usage.
+  - *co_training.ipynb*: Implementation of co-training with example usage.
+  - *tri_training.ipynb*: Implementation of tri-training with example usage.
 - **utils/**: Utility scripts for data preprocessing, evaluation metrics, etc.
 - **README.md**: Detailed information about the repository, installation instructions, usage examples, and more.
 
