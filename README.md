@@ -20,12 +20,20 @@ This repository aims to include a comprehensive collection of machine learning a
       - Naive Bayes
 
 2. **Unsupervised Learning**
-   - K-Means Clustering
-   - Hierarchical Clustering
-   - Principal Component Analysis (PCA)
-   - Independent Component Analysis (ICA)
-   - DBSCAN
-
+   - Clustering
+      - K-Means Clustering
+      - Hierarchical Clustering
+      - DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+      - Gaussian Mixture Models
+   - Dimensionality Reduction
+      - Principal Component Analysis (PCA)
+      - Independent Component Analysis (ICA)
+      - t-Distributed Stochastic Neighbor Embedding (t-SNE)
+      - Autoencoders
+   - Anomaly Detection
+      - Isolation Forest
+      - Local Outlier Factor (LOF)
+      - One-Class SVM
 3. **Reinforcement Learning**
    - Q-Learning
    - Deep Q-Networks (DQN)
