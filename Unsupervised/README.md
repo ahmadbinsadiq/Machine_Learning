@@ -28,34 +28,6 @@ This repository aims to include a comprehensive collection of unsupervised learn
 ## Dataset
 The algorithms are demonstrated using various datasets sourced from reliable sources like Kaggle, UCI Machine Learning Repository, and other publicly available datasets. Each dataset is preprocessed as necessary for the corresponding algorithm.
 
-## Repository Structure
-
-unsupervised-learning
-
-│
-├── clustering/
-│ ├── kmeans_clustering.ipynb
-│ ├── hierarchical_clustering.ipynb
-│ ├── dbscan_clustering.ipynb
-│ └── gmm_clustering.ipynb
-│
-├── dimensionality_reduction/
-│ ├── pca.ipynb
-│ ├── ica.ipynb
-│ ├── tsne.ipynb
-│ └── autoencoders.ipynb
-│
-├── anomaly_detection/
-│ ├── isolation_forest.ipynb
-│ ├── lof.ipynb
-│ └── one_class_svm.ipynb
-│
-├── utils/
-│ ├── data_preprocessing.py
-│ ├── evaluation_metrics.py
-│ └── visualization_tools.py
-│
-└── README.md
 
 - **clustering/**: Implementation scripts for clustering algorithms.
   - **kmeans_clustering.ipynb**: Implementation of K-Means Clustering with example usage.
