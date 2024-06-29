@@ -5,12 +5,19 @@ This repository aims to include a comprehensive collection of machine learning a
 
 ## Algorithms Included
 1. **Supervised Learning**
-   - Linear Regression
-   - Logistic Regression
-   - Decision Trees
-   - Random Forest
-   - Support Vector Machines (SVM)
-   - K-Nearest Neighbors (KNN)
+   - Regression
+      - Simple Linear Regression
+      - Multiple Linear Regression
+      - Ridge Regression
+      - Lasso Regression
+      - Polynomial Regression
+   - Classification
+      - Logistic Regression
+      - Decision Trees
+      - Random Forest
+      - Support Vector Machines (SVM)
+      - K-Nearest Neighbors (KNN)
+      - Naive Bayes
 
 2. **Unsupervised Learning**
    - K-Means Clustering
