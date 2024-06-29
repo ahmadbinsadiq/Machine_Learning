@@ -10,7 +10,6 @@ This folder contains various types of clustering analyses used in machine learni
 | Hierarchical         | When you need a dendrogram to understand the hierarchical relationship between clusters.       |
 | DBSCAN               | When you have data with noise and need a method that can find clusters of varying shapes.     |
 | Gaussian Mixture     | When you assume that data points are generated from a mixture of several Gaussian distributions.|
-| Agglomerative        | When you need a bottom-up approach to build a hierarchy of clusters.                          |
 
 ## Contents
 
