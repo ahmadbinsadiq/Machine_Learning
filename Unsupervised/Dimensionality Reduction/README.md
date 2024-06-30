@@ -9,6 +9,8 @@ This folder contains various types of dimensionality reduction techniques used i
 | **Principal Component Analysis (PCA)** | When you need to reduce the dimensionality of the data while retaining most of the variance. Ideal for linear dimensionality reduction.                                      |
 | **t-Distributed Stochastic Neighbor Embedding (t-SNE)** | When you need to visualize high-dimensional data in a low-dimensional space, especially for clustering or classification tasks.                               |
 | **Autoencoders**           | When you need a non-linear dimensionality reduction technique, especially useful for image and text data. Implemented using neural networks.        |
+| **Independent Component Analysis (ICA) | When you want to separate mixed signals or identify underlying hidden factors contributing to observed data variability.|
+
 
 ## Contents
 
