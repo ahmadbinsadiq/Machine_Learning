@@ -1,52 +1,44 @@
 # Semi-Supervised Learning Algorithms Repository
 
 ## Overview
-This repository aims to provide a comprehensive collection of semi-supervised learning algorithms and their implementations. The goal is to demonstrate various techniques in semi-supervised learning, combining both labeled and unlabeled data to improve model performance. Each algorithm is implemented in Python and comes with detailed documentation and example usage.
+
+This repository aims to provide a comprehensive collection of semi-supervised learning algorithms and their implementations. The goal is to demonstrate various techniques that leverage both labeled and unlabeled data to improve model performance. Each algorithm is implemented in Python and comes with detailed documentation and example usage.
 
 ## Algorithms Included
 
 ### Self-Training
-- Self-Training Classifier
 
-### Generative Methods
-- Semi-Supervised Generative Adversarial Networks (SGAN)
-- Variational Autoencoders (VAE)
-
-### Graph-Based Methods
-- Label Propagation
-- Label Spreading
+Self-training is a semi-supervised learning technique where a model is initially trained on labeled data. It then uses this model to predict labels for unlabeled data, which are added to the labeled dataset for subsequent training iterations. This process iterates until convergence or a predefined stopping criterion.
 
 ### Co-Training
-- Co-Training with different feature sets
 
-### Ensemble Methods
-- Tri-Training
-- Democratic Co-Learning
+Co-training involves training multiple classifiers on different subsets of features or views of the data. Initially, each classifier is trained on labeled data. They then collaborate by exchanging confidently predicted labels for unlabeled data instances between each other. This exchange process continues iteratively, enhancing the overall learning process.
 
-## Dataset
-The algorithms are demonstrated using various datasets sourced from reliable sources like Kaggle, UCI Machine Learning Repository, and other publicly available datasets. Each dataset is preprocessed as necessary for the corresponding algorithm.
+### Tri-Training
 
-## Directory Structure
+Tri-training extends co-training by using three base classifiers instead of two. Each classifier initially trains on the labeled data and then exchanges predictions on unlabeled data instances. The agreement among the classifiers on these predictions determines whether the instances are added to the labeled dataset for subsequent iterations.
 
-- **self_training/**: Implementation scripts for self-training methods.
-  - **self_training_classifier.ipynb**: Implementation of Self-Training Classifier with example usage.
-- **generative_methods/**: Implementation scripts for generative methods.
-  - **sgan.ipynb**: Implementation of Semi-Supervised Generative Adversarial Networks with example usage.
-  - **vae.ipynb**: Implementation of Variational Autoencoders with example usage.
-- **graph_based_methods/**: Implementation scripts for graph-based methods.
-  - **label_propagation.ipynb**: Implementation of Label Propagation with example usage.
-  - **label_spreading.ipynb**: Implementation of Label Spreading with example usage.
-- **co_training/**: Implementation scripts for co-training methods.
-  - **co_training.ipynb**: Implementation of Co-Training with different feature sets with example usage.
-- **ensemble_methods/**: Implementation scripts for ensemble methods.
+## Contents
+
+- **self_training/**: Contains code and examples for Self-Training.
+  - **self_training.ipynb**: Implementation of Self-Training with example usage.
+  
+- **co_training/**: Contains code and examples for Co-Training.
+  - **co_training.ipynb**: Implementation of Co-Training with example usage.
+  
+- **tri_training/**: Contains code and examples for Tri-Training.
   - **tri_training.ipynb**: Implementation of Tri-Training with example usage.
-  - **democratic_co_learning.ipynb**: Implementation of Democratic Co-Learning with example usage.
-- **utils/**: Utility scripts for data preprocessing, evaluation metrics, and visualization tools.
-- **README.md**: Detailed information about the repository, installation instructions, usage examples, and more.
 
-## Usage
-To use any of the algorithms, follow these steps:
+## Getting Started
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/ahmadbinsadiq/Machine_Learning.git
+To get started with any of the semi-supervised learning techniques, navigate to the respective folder and follow the instructions provided in the individual README files. Each folder contains example code, data, and detailed explanations to help you understand and apply the specific semi-supervised learning techniques.
+
+## Contributing
+
+If you have any improvements or additional examples, feel free to create a pull request. Contributions are welcome!
+
+## Contact
+
+If you have any questions or feedback, please open an issue or contact the repository maintainer.
+
+Happy learning and coding!
