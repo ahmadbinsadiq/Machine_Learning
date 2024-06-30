@@ -43,4 +43,4 @@ The algorithms are demonstrated using various datasets sourced from reliable sou
 To use any of the algorithms, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahmadbinsadiq/Machine_Learning/blob/327e05acb4a2f3d82a3d76f2ad30291d419000df/Supervised/README.md
+   git clone https://github.com/ahmadbinsadiq/Machine_Learning.git
