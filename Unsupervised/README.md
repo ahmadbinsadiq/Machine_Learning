@@ -51,4 +51,4 @@ To use any of the algorithms, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ahmadbinsadiq/Machine_Learning/tree/e36d7eacc7580fdc061224f84b06517d94c77f6a/Unsupervised
+   git clone https://github.com/ahmadbinsadiq/Machine_Learning.git
