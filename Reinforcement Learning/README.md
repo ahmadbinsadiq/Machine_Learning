@@ -20,13 +20,7 @@ This repository aims to provide a comprehensive collection of reinforcement lear
 - Monte Carlo Tree Search (MCTS)
 
 ## Dataset
-The algorithms are demonstrated using various environments from OpenAI Gym, including but not limited to:
-- CartPole
-- MountainCar
-- Acrobot
-- Atari Games
-
-Each environment is chosen to illustrate the capabilities and applications of the respective reinforcement learning algorithms.
+The algorithms are demonstrated using various datasets sourced from reliable sources like Kaggle, UCI Machine Learning Repository, and other publicly available datasets. Each dataset is preprocessed as necessary for the corresponding algorithm.
 
 - **value_based/**: Implementation scripts for value-based methods.
   - **q_learning.ipynb**: Implementation of Q-Learning with example usage.
