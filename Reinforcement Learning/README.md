@@ -16,8 +16,8 @@ This repository aims to provide a comprehensive collection of reinforcement lear
 - Actor-Critic Methods
 
 ### Model-Based Methods
+- Model-Based RL
 - Dyna-Q
-- Monte Carlo Tree Search (MCTS)
 
 ## Dataset
 The algorithms are demonstrated using various datasets sourced from reliable sources like Kaggle, UCI Machine Learning Repository, and other publicly available datasets. Each dataset is preprocessed as necessary for the corresponding algorithm.
@@ -31,8 +31,8 @@ The algorithms are demonstrated using various datasets sourced from reliable sou
   - **ppo.ipynb**: Implementation of Proximal Policy Optimization with example usage.
   - **actor_critic.ipynb**: Implementation of Actor-Critic Methods with example usage.
 - **model_based/**: Implementation scripts for model-based methods.
+  - **mdoel_based_rl**: Implementation of model_based_rl with example usage
   - **dyna_q.ipynb**: Implementation of Dyna-Q with example usage.
-  - **mcts.ipynb**: Implementation of Monte Carlo Tree Search with example usage.
 - **utils/**: Utility scripts for data preprocessing, evaluation metrics, and visualization tools.
 - **README.md**: Detailed information about the repository, installation instructions, usage examples, and more.
 
