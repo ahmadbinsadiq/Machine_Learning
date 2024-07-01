@@ -36,14 +36,6 @@ This repository aims to include a comprehensive collection of machine learning a
       - One-Class SVM
     
 3. **Reinforcement Learning**
-   - Value-Based Methods
-      - Q-Learning
-      - SARSA (State-Action-Reward-State-Action)
-
-   - Policy-Based Methods
-      - REINFORCE Algorithm
-      - Proximal Policy Optimization (PPO)
-
    - Model-Based Methods
       - Model-Based RL
       - Dyna-Q
