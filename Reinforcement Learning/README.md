@@ -5,14 +5,6 @@ This repository aims to provide a comprehensive collection of reinforcement lear
 
 ## Algorithms Included
 
-### Value-Based Methods
-- Q-Learning
-- SARSA (State-Action-Reward-State-Action)
-
-### Policy-Based Methods
-- REINFORCE Algorithm
-- Proximal Policy Optimization (PPO)
-
 ### Model-Based Methods
 - Model-Based RL
 - Dyna-Q
@@ -20,16 +12,9 @@ This repository aims to provide a comprehensive collection of reinforcement lear
 ## Dataset
 The algorithms are demonstrated using various datasets sourced from reliable sources like Kaggle, UCI Machine Learning Repository, and other publicly available datasets. Each dataset is preprocessed as necessary for the corresponding algorithm.
 
-- **value_based/**: Implementation scripts for value-based methods.
-  - **q_learning.ipynb**: Implementation of Q-Learning with example usage.
-  - **sarsa.ipynb**: Implementation of SARSA with example usage.
-- **policy_based/**: Implementation scripts for policy-based methods.
-  - **reinforce.ipynb**: Implementation of REINFORCE Algorithm with example usage.
-  - **ppo.ipynb**: Implementation of Proximal Policy Optimization with example usage.
 - **model_based/**: Implementation scripts for model-based methods.
   - **mdoel_based_rl**: Implementation of model_based_rl with example usage
   - **dyna_q.ipynb**: Implementation of Dyna-Q with example usage.
-- **utils/**: Utility scripts for data preprocessing, evaluation metrics, and visualization tools.
 - **README.md**: Detailed information about the repository, installation instructions, usage examples, and more.
 
 ## Usage
