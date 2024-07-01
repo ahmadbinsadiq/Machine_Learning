@@ -34,10 +34,19 @@ This repository aims to include a comprehensive collection of machine learning a
       - Isolation Forest
       - Local Outlier Factor (LOF)
       - One-Class SVM
+    
 3. **Reinforcement Learning**
-   - Q-Learning
-   - Deep Q-Networks (DQN)
-   - Policy Gradient Methods
+   - Value-Based Methods
+      - Q-Learning
+      - SARSA (State-Action-Reward-State-Action)
+
+   - Policy-Based Methods
+      - REINFORCE Algorithm
+      - Proximal Policy Optimization (PPO)
+
+   - Model-Based Methods
+      - Model-Based RL
+      - Dyna-Q
 
 4. **Semi-Supervised Learning**
    - Self-Training
@@ -47,31 +56,73 @@ This repository aims to include a comprehensive collection of machine learning a
 ## Dataset
 The algorithms are demonstrated using various datasets sourced from reliable sources like Kaggle, UCI Machine Learning Repository, and other publicly available datasets. Each dataset is preprocessed as necessary for the corresponding algorithm.
 
+Certainly! Here's the repository structure formatted as requested:
+
 ## Repository Structure
 - **data/**: Contains the datasets used in the examples.
-- **supervised/**: Implementation scripts for supervised learning algorithms.
-  - *linear_regression.ipynb*: Implementation of linear regression with example usage.
+  Certainly! Here's the structured repository outline for the listed machine learning categories:
+
+## Repository Structure
+
+### Supervised Learning
+
+- **Regression**
+  - *simple_linear_regression.ipynb*: Implementation of simple linear regression with example usage.
+  - *multiple_linear_regression.ipynb*: Implementation of multiple linear regression with example usage.
+  - *ridge_regression.ipynb*: Implementation of ridge regression with example usage.
+  - *lasso_regression.ipynb*: Implementation of lasso regression with example usage.
+  - *polynomial_regression.ipynb*: Implementation of polynomial regression with example usage.
+
+- **Classification**
   - *logistic_regression.ipynb*: Implementation of logistic regression with example usage.
   - *decision_trees.ipynb*: Implementation of decision trees with example usage.
   - *random_forest.ipynb*: Implementation of random forest with example usage.
   - *svm.ipynb*: Implementation of support vector machines with example usage.
   - *knn.ipynb*: Implementation of k-nearest neighbors with example usage.
-- **unsupervised/**: Implementation scripts for unsupervised learning algorithms.
+  - *naive_bayes.ipynb*: Implementation of naive Bayes classifier with example usage.
+
+### Unsupervised Learning
+
+- **Clustering**
   - *kmeans.ipynb*: Implementation of k-means clustering with example usage.
   - *hierarchical_clustering.ipynb*: Implementation of hierarchical clustering with example usage.
+  - *dbscan.ipynb*: Implementation of DBSCAN with example usage.
+  - *gaussian_mixture_models.ipynb*: Implementation of Gaussian mixture models with example usage.
+
+- **Dimensionality Reduction**
   - *pca.ipynb*: Implementation of principal component analysis with example usage.
   - *ica.ipynb*: Implementation of independent component analysis with example usage.
-  - *dbscan.ipynb*: Implementation of DBSCAN with example usage.
-- **reinforcement/**: Implementation scripts for reinforcement learning algorithms.
+  - *t_sne.ipynb*: Implementation of t-distributed stochastic neighbor embedding with example usage.
+  - *autoencoders.ipynb*: Implementation of autoencoders with example usage.
+
+- **Anomaly Detection**
+  - *isolation_forest.ipynb*: Implementation of isolation forest for anomaly detection with example usage.
+  - *lof.ipynb*: Implementation of local outlier factor for anomaly detection with example usage.
+  - *one_class_svm.ipynb*: Implementation of one-class SVM for anomaly detection with example usage.
+
+### Reinforcement Learning
+
+- **Value-Based Methods**
   - *q_learning.ipynb*: Implementation of Q-learning with example usage.
-  - *dqn.ipynb*: Implementation of deep Q-networks with example usage.
-  - *policy_gradient.ipynb*: Implementation of policy gradient methods with example usage.
-- **semi_supervised/**: Implementation scripts for semi-supervised learning algorithms.
-  - *self_training.ipynb*: Implementation of self-training with example usage.
-  - *co_training.ipynb*: Implementation of co-training with example usage.
-  - *tri_training.ipynb*: Implementation of tri-training with example usage.
-- **utils/**: Utility scripts for data preprocessing, evaluation metrics, etc.
+  - *sarsa.ipynb*: Implementation of SARSA with example usage.
+
+- **Policy-Based Methods**
+  - *reinforce_algorithm.ipynb*: Implementation of REINFORCE algorithm with example usage.
+  - *ppo.ipynb*: Implementation of proximal policy optimization (PPO) with example usage.
+
+- **Model-Based Methods**
+  - *model_based_rl.ipynb*: Implementation of model-based reinforcement learning with example usage.
+  - *dyna_q.ipynb*: Implementation of Dyna-Q algorithm with example usage.
+
+### Semi-Supervised Learning
+
+- *self_training.ipynb*: Implementation of self-training with example usage.
+- *co_training.ipynb*: Implementation of co-training with example usage.
+- *tri_training.ipynb*: Implementation of tri-training with example usage.
+    
 - **README.md**: Detailed information about the repository, installation instructions, usage examples, and more.
+
+This structure organizes the repository into distinct folders based on the type of machine learning algorithms, making it easy to locate and explore specific implementations along with their example usages.
 
 ## Usage
 To use any of the algorithms, follow these steps:
