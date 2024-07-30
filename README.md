@@ -44,6 +44,14 @@ This repository aims to include a comprehensive collection of machine learning a
    - Self-Training
    - Co-Training
    - Tri-Training
+  
+5. **Case_Studies**
+   - House Price Prediction
+   - Breast Cancer Diagnosis
+   - Car Sales Prediction
+   - Google Merchandise Store Data Analysis
+   - Google Analytics Customer Revenue Prediction
+   - Google Landmark Recognition
 
 ## Dataset
 The algorithms are demonstrated using various datasets sourced from reliable sources like Kaggle, UCI Machine Learning Repository, and other publicly available datasets. Each dataset is preprocessed as necessary for the corresponding algorithm.
@@ -111,6 +119,14 @@ Certainly! Here's the repository structure formatted as requested:
 - *self_training.ipynb*: Implementation of self-training with example usage.
 - *co_training.ipynb*: Implementation of co-training with example usage.
 - *tri_training.ipynb*: Implementation of tri-training with example usage.
+
+### Case_Studies
+- *house_price_prediction.ipynb:* Fine-tuning various regression models to predict house prices using the 'Real Estate Price Prediction' dataset.
+- *breast_cancer_diagnosis.ipynb:* Applying different classification models and fine-tuning them to predict breast cancer diagnosis using the breast cancer dataset.
+- *car_sales_prediction.ipynb:* Evaluating and fine-tuning regression models to predict car sales prices using the car sales dataset.
+- *google_merchandise_store.ipynb:* Analyzing and modeling data from the Google Merchandise Store to predict user behavior and sales.
+- *google_customer_revenue_prediction.ipynb:* Predicting customer revenue using the Google Analytics dataset.
+- *google_landmark_recognition.ipynb:* Applying various image classification models to recognize landmarks using the Google Landmark dataset.
     
 - **README.md**: Detailed information about the repository, installation instructions, usage examples, and more.
 
@@ -121,3 +137,10 @@ To use any of the algorithms, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ahmadbinsadiq/Machine_Learning
+
+## Acknowledgments
+
+Special thanks to the sources of the datasets used in these case studies and the community for providing valuable resources and tools for machine learning research and development.
+
+## Author
+* [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
