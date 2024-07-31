@@ -6,33 +6,47 @@ This folder contains a series of case studies focused on fine-tuning machine lea
 
 ## Case Studies Included
 
-1. **House Price Prediction**
-   - *house_price_prediction.ipynb*: Fine-tuning various regression models to predict house prices using the 'Real Estate Price Prediction' dataset.
-   
-2. **Breast Cancer Diagnosis**
+### Classification
+
+1. **Titanic Survival Prediction**
+   - **titanic_survival_prediction.ipynb**: Fine-tuning various classification models to predict survival outcomes of passengers on the Titanic using the Titanic dataset.
+
+2. **Wine Quality Prediction**
+   - **wine_quality_prediction.ipynb**: Fine-tuning classification models to predict the quality of wine based on its chemical properties using the Wine Quality dataset.
+
+3. **Heart Disease Prediction**
+   - **heart_disease_prediction.ipynb**: Applying and fine-tuning classification models to predict the likelihood of heart disease based on patient data using the Heart Disease dataset.
+
+4. **Iris Flower Classification**
+   - **iris_flower_classification.ipynb**: Evaluating and fine-tuning classification models to classify iris species based on flower features using the Iris dataset.
+
+5. **Breast Cancer Diagnosis**
    - *breast_cancer_diagnosis.ipynb*: Applying different classification models and fine-tuning them to predict breast cancer diagnosis using the breast cancer dataset.
 
-3. **Car Sales Prediction**
+6. **Loan Default Prediction**
+   - **loan_default_prediction.ipynb**: Evaluating and fine-tuning classification models to predict the likelihood of loan default based on borrower information using the Loan Default dataset.
+
+### Regression
+
+1. **Insurance Charges Prediction**
+   - **insurance_charges_prediction.ipynb**: Fine-tuning regression models to predict medical insurance charges based on patient characteristics and health information using the Insurance Charges dataset.
+
+2. **Student Performance Prediction**
+   - **student_performance_prediction.ipynb**: Evaluating and fine-tuning regression models to predict student academic performance based on various features such as study hours and attendance using the Student Performance dataset.
+
+3. **Energy Consumption Prediction**
+   - **energy_consumption_prediction.ipynb**: Applying and fine-tuning regression models to predict energy consumption based on weather conditions and other factors using the Energy Consumption dataset.
+
+4. **Car Sales Prediction**
    - *car_sales_prediction.ipynb*: Evaluating and fine-tuning regression models to predict car sales prices using the car sales dataset.
 
-4. **Google Merchandise Store Data Analysis**
-   - *google_merchandise_store.ipynb*: Analyzing and modeling data from the Google Merchandise Store to predict user behavior and sales.
-
-5. **Google Analytics Customer Revenue Prediction**
-   - *google_customer_revenue_prediction.ipynb*: Predicting customer revenue using the Google Analytics dataset.
-
-6. **Google Landmark Recognition**
-   - *google_landmark_recognition.ipynb*: Applying various image classification models to recognize landmarks using the Google Landmark dataset.
+5. **House Price Prediction**
+   - **house_price_prediction.ipynb**: Fine-tuning various regression models to predict house prices using the 'Real Estate Price Prediction' dataset.
 
 ## Dataset
 
 Each case study utilizes specific datasets relevant to the problem at hand. The datasets are sourced from reliable sources like Kaggle and UCI Machine Learning Repository. Detailed preprocessing steps are provided to prepare the data for modeling.
 
-## Structure
-
-- **house_price_prediction.ipynb**: Implementation of various regression models with hyperparameter tuning and final model evaluation for house price prediction.
-- **breast_cancer_diagnosis.ipynb**: Implementation of classification models, fine-tuning, and evaluation for breast cancer diagnosis prediction.
-- **car_sales_prediction.ipynb**: Implementation of regression models with fine-tuning and evaluation for car sales price prediction.
 
 ## Usage
 
