@@ -21,7 +21,7 @@ This folder contains a series of case studies focused on fine-tuning machine lea
    - **iris_flower_classification.ipynb**: Evaluating and fine-tuning classification models to classify iris species based on flower features using the Iris dataset.
 
 5. **Breast Cancer Diagnosis**
-   - *breast_cancer_diagnosis.ipynb*: Applying different classification models and fine-tuning them to predict breast cancer diagnosis using the breast cancer dataset.
+   - **breast_cancer_diagnosis.ipynb**: Applying different classification models and fine-tuning them to predict breast cancer diagnosis using the breast cancer dataset.
 
 6. **Loan Default Prediction**
    - **loan_default_prediction.ipynb**: Evaluating and fine-tuning classification models to predict the likelihood of loan default based on borrower information using the Loan Default dataset.
@@ -38,7 +38,7 @@ This folder contains a series of case studies focused on fine-tuning machine lea
    - **energy_consumption_prediction.ipynb**: Applying and fine-tuning regression models to predict energy consumption based on weather conditions and other factors using the Energy Consumption dataset.
 
 4. **Car Sales Prediction**
-   - *car_sales_prediction.ipynb*: Evaluating and fine-tuning regression models to predict car sales prices using the car sales dataset.
+   - **car_sales_prediction.ipynb**: Evaluating and fine-tuning regression models to predict car sales prices using the car sales dataset.
 
 5. **House Price Prediction**
    - **house_price_prediction.ipynb**: Fine-tuning various regression models to predict house prices using the 'Real Estate Price Prediction' dataset.
