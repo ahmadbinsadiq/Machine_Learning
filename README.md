@@ -46,17 +46,20 @@ This repository aims to include a comprehensive collection of machine learning a
    - Tri-Training
   
 5. **Case_Studies**
-   - House Price Prediction
-   - Breast Cancer Diagnosis
-   - Car Sales Prediction
-   - Google Merchandise Store Data Analysis
-   - Google Analytics Customer Revenue Prediction
-   - Google Landmark Recognition
-
-## Repository Structure
-- **data/**: Contains the datasets used in the examples.
-  Certainly! Here's the structured repository outline for the listed machine learning categories:
-
+   - Classifications
+      - Titanic Survival Prediction
+      - Wine Quality Prediction
+      - Heart Disease Prediction
+      - Iris Flower Classification
+      - Breast Cancer Diagnosis
+      - Loan Default Prediction
+   - Regression
+      - Insurance Charges Prediction
+      - Student Performance Prediction
+      - Energy Consumption Prediction
+      - Car Sales Prediction
+      - House Price Prediction
+  
 ## Repository Structure
 
 ### Supervised Learning
