@@ -38,6 +38,7 @@ To get started with any of the semi-supervised learning techniques, navigate to 
 If you have any improvements or additional examples, feel free to create a pull request. Contributions are welcome!
 
 ## Author
+
 * **LinkedIn:** [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
 * **Email:** ahmadbinsadiq@gmail.com
 
