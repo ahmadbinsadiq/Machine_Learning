@@ -136,8 +136,8 @@ This structure organizes the repository into distinct folders based on the type 
 To use any of the algorithms, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahmadbinsadiq/Machine_Learning
-
+   git clone https://github.com/ahmadbinsadiq/Machine_Learning_Models-and-Case-Studies.git
+   
 ## Acknowledgments
 
 Special thanks to the sources of the datasets used in these case studies and the community for providing valuable resources and tools for machine learning research and development.
