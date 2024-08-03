@@ -22,8 +22,9 @@ To begin using the co-training algorithm, navigate to the co_training_classifier
 
 We welcome contributions! If you have improvements or additional examples, please create a pull request with your changes.
 
-## Contact
+## Author
 
-If you have any questions or feedback, please open an issue or contact the repository maintainer.
-
+* **LinkedIn:** [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
+* **Email:** ahmadbinsadiq@gmail.com
+  
 Happy learning and coding!
