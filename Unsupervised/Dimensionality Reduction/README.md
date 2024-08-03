@@ -28,9 +28,10 @@ To get started with any of the dimensionality reduction techniques, navigate to 
 
 If you have any improvements or additional examples, feel free to create a pull request. Contributions are welcome!
 
-## Contact
+## Author
 
-If you have any questions or feedback, please open an issue or contact the repository maintainer.
+* **LinkedIn:** [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
+* **Email:** ahmadbinsadiq@gmail.com
 
 ---
 Happy coding!
