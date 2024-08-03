@@ -26,5 +26,5 @@ To use any of the algorithms, follow these steps:
 
 ## Author
 * **LinkedIn:** [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
-* **Email:** ahmadbinsadiq@gmail.com"
+* **Email:** ahmadbinsadiq@gmail.com
 
