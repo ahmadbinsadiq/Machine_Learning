@@ -26,9 +26,9 @@ To explore and implement any of these model-based reinforcement learning techniq
 
 If you have improvements, additional examples, or new algorithms to contribute, please feel free to create a pull request. Contributions of all kinds are welcome!
 
-## Contact
-
-If you have any questions, suggestions, or feedback, please open an issue or contact the repository maintainer.
+## Author
+* **LinkedIn:** [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
+* **Email:** ahmadbinsadiq@gmail.com
 
 Happy coding!
 
