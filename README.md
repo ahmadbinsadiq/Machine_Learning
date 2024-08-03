@@ -143,4 +143,6 @@ To use any of the algorithms, follow these steps:
 Special thanks to the sources of the datasets used in these case studies and the community for providing valuable resources and tools for machine learning research and development.
 
 ## Author
-* [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
+
+* **LinkedIn:** [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
+* **Email:** ahmadbinsadiq@gmail.com
