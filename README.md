@@ -119,13 +119,18 @@ This repository aims to include a comprehensive collection of machine learning a
 - *tri_training.ipynb*: Implementation of tri-training with example usage.
 
 ### Case_Studies
-- *house_price_prediction.ipynb:* Fine-tuning various regression models to predict house prices using the 'Real Estate Price Prediction' dataset.
-- *breast_cancer_diagnosis.ipynb:* Applying different classification models and fine-tuning them to predict breast cancer diagnosis using the breast cancer dataset.
-- *car_sales_prediction.ipynb:* Evaluating and fine-tuning regression models to predict car sales prices using the car sales dataset.
-- *google_merchandise_store.ipynb:* Analyzing and modeling data from the Google Merchandise Store to predict user behavior and sales.
-- *google_customer_revenue_prediction.ipynb:* Predicting customer revenue using the Google Analytics dataset.
-- *google_landmark_recognition.ipynb:* Applying various image classification models to recognize landmarks using the Google Landmark dataset.
-    
+- *titanic_survival_prediction.ipynb*: Fine-tuning various classification models to predict survival outcomes of passengers on the Titanic using the Titanic dataset.
+- *wine_quality_prediction.ipynb*: Fine-tuning classification models to predict the quality of wine based on its chemical properties using the Wine Quality dataset.
+- *heart_disease_prediction.ipynb*: Applying and fine-tuning classification models to predict the likelihood of heart disease based on patient data using the Heart Disease dataset.
+- *iris_flower_classification.ipynb*: Evaluating and fine-tuning classification models to classify iris species based on flower features using the Iris dataset.
+- *breast_cancer_diagnosis.ipynb*: Applying different classification models and fine-tuning them to predict breast cancer diagnosis using the breast cancer dataset.
+- *loan_default_prediction.ipynb*: Evaluating and fine-tuning classification models to predict the likelihood of loan default based on borrower information using the Loan Default dataset.
+- *insurance_charges_prediction.ipynb*: Fine-tuning regression models to predict medical insurance charges based on patient characteristics and health information using the Insurance Charges dataset.
+- *student_performance_prediction.ipynb*: Evaluating and fine-tuning regression models to predict student academic performance based on various features such as study hours and attendance using the Student Performance dataset.
+- *energy_consumption_prediction.ipynb*: Applying and fine-tuning regression models to predict energy consumption based on weather conditions and other factors using the Energy Consumption dataset.
+- *car_sales_prediction.ipynb*: Evaluating and fine-tuning regression models to predict car sales prices using the car sales dataset.
+- *house_price_prediction.ipynb*: Fine-tuning various regression models to predict house prices using the 'Real Estate Price Prediction' dataset.
+     
 - **README.md**: Detailed information about the repository, installation instructions, usage examples, and more.
 
 This structure organizes the repository into distinct folders based on the type of machine learning algorithms, making it easy to locate and explore specific implementations along with their example usages.
