@@ -65,4 +65,9 @@ To use any of the algorithms, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ahmadbinsadiq/Machine_Learning.git
+   git clone https://github.com/ahmadbinsadiq/Machine_Learning_Models-and-Case-Studies.git
+
+## Author
+
+* **LinkedIn:** [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
+* **Email:** ahmadbinsadiq@gmail.com
