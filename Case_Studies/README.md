@@ -76,4 +76,5 @@ Contributions are welcome! If you have a case study you would like to add or imp
 Special thanks to the sources of the datasets used in these case studies and the community for providing valuable resources and tools for machine learning research and development.
 
 ## Author
-* [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
+* **LinkedIn:** [Ahmad Bin Sadiq](https://www.linkedin.com/in/ahmad-bin-sadiq/)
+* **Email:** ahmadbinsadiq@gmail.com
