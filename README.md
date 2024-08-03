@@ -53,11 +53,6 @@ This repository aims to include a comprehensive collection of machine learning a
    - Google Analytics Customer Revenue Prediction
    - Google Landmark Recognition
 
-## Dataset
-The algorithms are demonstrated using various datasets sourced from reliable sources like Kaggle, UCI Machine Learning Repository, and other publicly available datasets. Each dataset is preprocessed as necessary for the corresponding algorithm.
-
-Certainly! Here's the repository structure formatted as requested:
-
 ## Repository Structure
 - **data/**: Contains the datasets used in the examples.
   Certainly! Here's the structured repository outline for the listed machine learning categories:
